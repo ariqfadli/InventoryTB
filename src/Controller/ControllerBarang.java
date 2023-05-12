@@ -11,7 +11,7 @@ import View.FormBarang;
 import java.util.List;
 import DAOInterface.IDAOBarang;
 
-
+//ikiproject tegar
 /**
  *
  * @author kumil
